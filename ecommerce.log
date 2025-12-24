@@ -1,0 +1,14 @@
+2025-12-24 02:26:13,524 - backend.services.auth_service - WARNING - Failed login attempt for user: manager1
+2025-12-24 02:26:32,169 - backend.services.auth_service - WARNING - Failed login attempt for user: manager1
+2025-12-24 02:26:42,713 - backend.services.auth_service - WARNING - Failed login attempt for user: manager1
+2025-12-24 02:28:16,307 - backend.services.auth_service - WARNING - Failed login attempt for user: customer1
+2025-12-24 02:29:16,195 - backend.services.auth_service - WARNING - Failed login attempt for user: customer1
+2025-12-24 02:29:51,553 - backend.services.auth_service - WARNING - Failed login attempt for user: admin1
+2025-12-24 02:29:59,916 - backend.services.auth_service - WARNING - Failed login attempt for user: admin1
+2025-12-24 02:30:06,079 - backend.services.auth_service - WARNING - Failed login attempt for user: admin1
+2025-12-24 02:31:34,326 - backend.services.auth_service - WARNING - Failed login attempt for user: admin1
+2025-12-24 02:31:43,866 - backend.services.auth_service - WARNING - Failed login attempt for user: admin1
+2025-12-24 02:41:51,572 - backend.services.auth_service - WARNING - Failed login attempt for user: customer1
+2025-12-24 02:42:20,416 - gui.dashboards.customer_dashboard - ERROR - Error loading cart: unsupported operand type(s) for *: 'decimal.Decimal' and 'float'
+2025-12-24 02:49:57,469 - backend.services.auth_service - WARNING - Failed login attempt for user: admin1
+2025-12-24 02:50:03,653 - backend.services.auth_service - WARNING - Failed login attempt for user: admin1
